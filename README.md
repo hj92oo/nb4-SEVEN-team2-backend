@@ -4,13 +4,11 @@
 
 ## 프로젝트 계획서
 
-Notion
-
 - [바로가기](https://www.notion.so/Part2-Team2_-24c901367b6a80e6bf9ace444980837a)
   Github
 - [백엔드](https://github.com/hj92oo/nb4-SEVEN-team2-backend)
 - [프론트엔드](https://github.com/hj92oo/nb4-SEVEN-team2-frontend)
-
+- [배포 시연 영상](https://drive.google.com/file/d/1xcvRawN-D2Z0aJJeh5BmF3-pPdLyfh08/view)
 ---
 
 ## 팀원 구성
